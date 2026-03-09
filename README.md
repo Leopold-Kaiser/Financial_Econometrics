@@ -167,7 +167,6 @@ ggplot(df, aes(x = q)) +
 
 #   Getting Data 
 
-#   If you just want to replicate the results its not necessary run the this part of the code 
 
 ######################################################################
 
